@@ -1,0 +1,26 @@
+
+
+.main-button {
+    width: 20rem;
+    height: 3rem;
+    font-size: large;
+    border-radius: 15px;
+    color: white;
+    background: linear-gradient(45deg, #a121f5, #f731c1);
+    border: 0.15rem solid #bbbbbb;
+    box-shadow: 0px 3px 2px  #a121f566;
+
+    transition: all 0.3s ease-in-out;
+
+}
+
+.main-button:hover {
+    width: 20rem;
+    height: 3rem;
+    font-size: large;
+    border-radius: 15px;
+    color: white;
+    background: linear-gradient(45deg, #f731c1, #a121f5 );
+    border: 0.15rem solid white;
+    box-shadow: 0px 3px 2px  #f42fbd66;
+}
